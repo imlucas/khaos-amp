@@ -18,6 +18,10 @@ Create a new ampersand.js module with:
 khaos amp mymodule
 ```
 
+## What's in the box?
+
+Have a look at the example [example](https://github.com/imlucas/khaos-amp-example).
+
 ## License
 
 MIT
